@@ -1,0 +1,23 @@
+.rasm{
+background-color: indigo;
+width: 100px;
+height: 100px;
+margin: 4px auto;
+font-size: 90px;
+text-align: center;
+}
+.margin{
+    margin-left: 120px;
+}
+.pul{
+    margin-left: 170px;
+}
+.pul1{
+    margin-left: 180px;
+}
+.footer11{
+    margin: 80px 270px;
+}
+.footer1{
+    margin: -80px 270px;
+}
